@@ -1,39 +1,10 @@
-<div align="center">
-
 # 🩸 Rota Vital — Threads II
-
-### ⚙️ Comparação entre processamento sequencial, threads de plataforma e threads virtuais
-
-![Java](https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.6-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-3.9%2B-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Funcionando-2ea44f?style=for-the-badge)
 
 **Projeto Integrador — Processos e Threads**
 
 Aplicação Spring Boot para demonstrar, na prática, o ganho de desempenho obtido com paralelismo em uma operação de alto volume do sistema **Rota Vital**.
 
 </div>
-
----
-
-## 📚 Sumário
-
-- [🎯 Objetivo](#-objetivo)
-- [💡 Ideia escolhida](#-ideia-escolhida)
-- [🧠 Como funciona](#-como-funciona)
-- [🏗️ Estrutura do projeto](#️-estrutura-do-projeto)
-- [🧩 Explicação do código](#-explicação-do-código)
-- [🧵 Tipos de processamento](#-tipos-de-processamento)
-- [🔒 Condição de corrida](#-condição-de-corrida)
-- [🌐 Interface e rotas](#-interface-e-rotas)
-- [▶️ Como executar](#️-como-executar)
-- [🧪 Testes](#-testes)
-- [📊 Medições](#-medições)
-- [📈 Big-O e Speedup](#-big-o-e-speedup)
-- [🆚 Concorrência x Paralelismo](#-concorrência-x-paralelismo)
-- [🧰 Tecnologias](#-tecnologias)
-- [👥 Integrantes](#-integrantes)
 
 ---
 
