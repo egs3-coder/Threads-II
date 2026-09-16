@@ -101,11 +101,11 @@ Speedup = T_sequencial / T_versão
 
 ### Tempo de resposta
 
-![Tempo de resposta](grafico_tempo_resposta.png)
+![Tempo de resposta](grafico_tempo_resposta(2).png)
 
 ### Speedup observado
 
-![Speedup](grafico_speedup.png)
+![Speedup](grafico_speedup(2).png)
 
 ---
 
